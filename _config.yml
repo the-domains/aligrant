@@ -1,4 +1,22 @@
-title: Ali Grant
+typography_spectrum: 0.3978495
+color:
+  saturation: 0.9147134160157293
+  brandStrength: 1
+  lightness: 0.04337275121361017
+  brandColors:
+    - '#050505'
+    - '#FFFFE3'
+    - '#263636'
+    - '#7C8F9D'
+    - '#636557'
+  rhythmicContrast: 0.1136755633633584
+layout_spectrum: 0
+author:
+  name: Ali
+  email: ali@studiogrant.io
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf50483-ece6-4e6a-abbb-2533e76937ce.jpg
+name: aligrant
 collections:
   - index:
       path: /
@@ -11,18 +29,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9147134160157293
-  brandStrength: 1
-  lightness: 0.04337275121361017
-  brandColors:
-    - '#050505'
-    - '#FFFFE3'
-    - '#263636'
-    - '#7C8F9D'
-    - '#636557'
-  rhythmicContrast: 0.1136755633633584
-typography_spectrum: 0.3769513969309628
+title: Ali Grant
 description: On a voyage of discovery
-layout_spectrum: 0.19940470904111862
-name: aligrant
