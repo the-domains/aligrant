@@ -1,33 +1,20 @@
-typography_spectrum: 0.3978495
+typography_spectrum: 0.5382192661054432
 color:
-  saturation: 0.9147134160157293
-  brandStrength: 1
+  brandStrength: 0.1276801060885191
   lightness: 0.04337275121361017
+  saturation: 0.9147134160157293
+  rhythmicContrast: 0.11367556336335838
   brandColors:
-    - '#050505'
-    - '#FFFFE3'
-    - '#263636'
-    - '#7C8F9D'
-    - '#636557'
-  rhythmicContrast: 0.1136755633633584
-layout_spectrum: 0
-author:
-  name: Ali
-  email: ali@studiogrant.io
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bf50483-ece6-4e6a-abbb-2533e76937ce.jpg
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+layout_spectrum: 0.8625348398927599
 name: aligrant
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+navigation:
+  - name: Playlists
+    id: be14cd74-00d9-431b-a649-a3fedc1213f1
+    type: content
 title: Ali Grant
 description: On a voyage of discovery
