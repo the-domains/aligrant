@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-08-07T16:31:10.499Z'
-isBasedOnUrl: 'https://open.spotify.com/user/dirtyali/playlist/3MwcYWI8mJxBE2sbKi8mA8'
+datePublished: '2016-08-07T23:54:35.688Z'
 keywords:
   - disco
   - vol
@@ -15,7 +14,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-07T16:29:52.735Z'
+dateModified: '2016-08-07T23:54:35.323Z'
 title: Disco Playlist
 app_links:
   - url: 'spotify://user/dirtyali/playlist/3MwcYWI8mJxBE2sbKi8mA8'
@@ -41,11 +40,10 @@ app_links:
 publisher: {}
 description: ''
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-07-disco-playlist.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: disco-playlist/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
