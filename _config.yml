@@ -1,0 +1,14 @@
+layout_spectrum: 0.8625348398927599
+typography_spectrum: 0.5382192661054432
+color:
+  brandStrength: 0.1276801060885191
+  lightness: 0.04337275121361017
+  saturation: 0.9147134160157293
+  rhythmicContrast: 0.11367556336335838
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: aligrant
