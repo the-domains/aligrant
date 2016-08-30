@@ -11,10 +11,14 @@ color:
     - '#D40D12'
     - '#FF1D23'
 layout_spectrum: 0.8625348398927599
-name: aligrant
+author:
+  url: ''
+  email: aligrant23@gmail.com
+  name: Ali Grant
+name: The 23rd Mirror
 navigation:
   - name: Music
     id: be14cd74-00d9-431b-a649-a3fedc1213f1
     type: content
-title: The 23rd Mirror
+title: The Blog of Ali Grant
 description: The Blog of Ali Grant
